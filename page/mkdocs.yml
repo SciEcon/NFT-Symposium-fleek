@@ -1,4 +1,9 @@
 site_name: SciEcon NFT Symposium Program
-theme: readthedocs
+theme: 
+  name: material
+  logo: assets/logo1.png
+  favicon: images/logo2.png
 markdown_extensions:
   - attr_list
+extra_css:
+  - stylesheets/extra.css

@@ -1,6 +1,8 @@
 # SciEcon NFT Symposium Program
 
-**The promise and perils of NFT marketplaces**
+## The promise and perils of NFT marketplaces
+
+---
 
 ## Overview
 
@@ -22,15 +24,19 @@ The research scope of our laboratory includes NFT Marketplace, Metaverse, GameFi
 
 The symposium comprises online presentations for five articles, ranging from the NFT marketplace to GameFi, the legal perspective in the NFT world, and the Metaverse. Each presentation lasts 6 minutes, followed by a 30 minutes session of panel discussions.
 
+---
+
 ## Watch SciEcon NFT Symposium on [SciEcon YouTube channel](https://www.youtube.com/channel/UCQOvF-D45s09FlajFkKzoOA).
 
 <iframe 
-    width="560" 
-    height="315" 
+    width="560"
+    height="315"
     src="https://www.youtube.com/embed/iLMZ_Z5Yo9M" 
     title="YouTube video player" 
     frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
+
+---
 
 ## Symposium Agenda
 
@@ -117,6 +123,8 @@ The article is written to offer a landscape of what legal problems the Non-fungi
 ### Panel Discussions
 
 9:45-10:15 P.M.
+
+---
 
 ## Bios
 
@@ -231,6 +239,8 @@ SciEcon CIC
 Duke Kunshan University
 
 **Selective Last engagement review**: [Indicators in the Crypto Market: the valuation of social sentiments](https://medium.com/sciecon-research/indicators-in-the-crypto-market-the-valuation-of-social-sentiments-ff06488e5bcf)
+
+---
 
 ## Program Committee
 
