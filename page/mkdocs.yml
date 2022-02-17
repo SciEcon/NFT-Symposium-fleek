@@ -1,0 +1,4 @@
+site_name: SciEcon NFT Symposium Program
+theme: readthedocs
+markdown_extensions:
+  - attr_list
