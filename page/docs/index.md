@@ -1,5 +1,5 @@
-### SciEcon NFT Symposium Program
 # The promise and perils of NFT marketplaces
+### SciEcon NFT Symposium Program
 
 ---
 
