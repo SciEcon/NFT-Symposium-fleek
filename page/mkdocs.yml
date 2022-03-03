@@ -4,7 +4,7 @@ theme:
   logo: assets/logo1.png
   favicon: assets/images/logo2.png
   font:
-    text: Noto Sans
+    # text: Noto Sans
 markdown_extensions:
   - attr_list
 extra_css:
