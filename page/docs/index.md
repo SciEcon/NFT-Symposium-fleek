@@ -4,8 +4,8 @@
 
 ---
 
-## Overview
-<!-- <h2><b>Overview</b></h2> -->
+<!-- ## Overview -->
+<h2><b>Overview</b></h2>
 
 
 ### Symposium Background
@@ -40,7 +40,8 @@ The symposium comprises online presentations for five articles, ranging from the
 
 ---
 
-## Symposium Agenda
+<!-- ## Symposium Agenda -->
+<h2><b>Symposium Agenda</b></h2>
 
 12/3/2021 China Standard Time (GMT+8)
 
@@ -50,7 +51,7 @@ Co-Hosts: Zichao Chen, Yufan Zhang, Prof. Luyao Zhang
 
 9:00-9:05 P.M.
 
-### ARTICLE ONE
+### Article 1
 
 9:05-9:11 P.M.
 
@@ -63,7 +64,7 @@ Co-Hosts: Zichao Chen, Yufan Zhang, Prof. Luyao Zhang
 **Abstract**:
 Our project topic is the NFT marketplace. We have included two articles in this series that introduce the NFT market from shallow to deep. The first article is devoted to introducing and analyzing NFT and the mechanism of the NFT market. We introduced the key idea about NFT and analyzed why NFT can have such high prices. Then we also discussed NFT’s technical standards and its trading marketplace. Finally, we argued the advantages of each auction mechanism. In general, this article will give you a preliminary introduction to the NFT Marketplace.
 
-### ARTICLE TWO
+### Article 2
 
 9:12-9:18 P.M.
 
@@ -76,7 +77,7 @@ Our project topic is the NFT marketplace. We have included two articles in this 
 **Abstract**:
 The article is written to give the guideline to choose the best NFT marketplace for artists and collectors. Many of the current marketplaces are built for certain targeted users with specific purposes such as buying NFT collectives of highlight reels, while some serve a larger group of NFT creators and collectors. Therefore, this article helps people to choose the best NFT marketplace that suits their needs, depending on what the one’s position is in this boom of NFT.
 
-### ARTICLE THREE
+### Article 3
 
 9:19-9:25 P.M.
 
@@ -89,7 +90,7 @@ The article is written to give the guideline to choose the best NFT marketplace 
 **Abstract**:
 The concept of Metaverse has absorbed people’s attention for a long time. The current picture of the Metaverse was mostly created by the leading centralized enterprises, like Facebook, Microsoft, and Google, with high-tech products in game design, wearable devices, and social media platforms. However, considering the public trust issues and potential collapse in centralized institutions, we argue that only with decentralization can the Metaverse be brought to reality. In this article, we firstly analyze the current architecture of Metaverse in the centralized world and then discuss the importance of decentralization, with the problems we find in reality. We use a case study at the end of this article to demonstrate how its functionality fits the idea of Metaverse and how it can be improved with decentralized systems.
 
-### ARTICLE FOUR
+### Article 4
 
 9:26-9:32 P.M.
 
@@ -102,7 +103,7 @@ The concept of Metaverse has absorbed people’s attention for a long time. The 
 **Abstract**:
 The article is written to offer a landscape of what legal problems the Non-fungible Token (NFT) market now encountered under the US Law. With specific examples, we clarify the differences between ownership and other underlying intellectual property rights in NFT. Based on the clarification of these legal terms, we cover the potential copyfraud and infringement problem in the NFT market, and talk about the legitimacy of NFT assets transfer. To connect the NFT market with other traditional legitimate intellectual properties, we discuss the applicability of including the royalties and use qualitative methods to identify whether it would further incentivize artists’ creation and increase the liquidity of the whole NFT market. Last but not least, we design a case study to discuss how value or the function would differ when we have different types of products in the NFT market, in terms of privacy, copyright, and ownership?
 
-### ARTICLE FIVE
+### Article 5
 
 9:32-9:38 P.M.
 
@@ -112,7 +113,7 @@ The article is written to offer a landscape of what legal problems the Non-fungi
 
 **Abstract**: The applications and use cases of blockchain technology continue to spread into the different areas of our lives. A blockchain is a distributed public ledger that records transactions.  From currency to exchanges, a majority of blockchain technology has focused solely on financial use cases. With NFTs, the use cases for blockchain are set to expand beyond that. With the advent of ERC-721, the Non-Fungible Token (NFT) Standard, that describes how to build unique tokens on the Ethereum blockchain, wide-ranging fields, such as art, music royalties, and collectables, can be introduced to the NFT ecosystem. In this article we introduce some current use cases for NFTs, such as art, collectibles, luxury goods, gaming, and gambling.
 
-### ARTICLE SIX
+### Article 6
 
 9:38-9:44 P.M.
 
@@ -128,7 +129,8 @@ The article is written to offer a landscape of what legal problems the Non-fungi
 
 ---
 
-## Bios
+<!-- ## Bios -->
+<h2><b>Bios</b></h2>
 
 ### Presenters
 
