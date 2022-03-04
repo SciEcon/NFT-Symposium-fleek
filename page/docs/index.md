@@ -1,10 +1,12 @@
-# The promise and perils of NFT marketplaces
+<!-- # The promise and perils of NFT marketplaces -->
 <h1><b>The promise and perils of NFT marketplaces</b></h1>
+
 ### SciEcon NFT Symposium Program
 
 ---
 
-## Overview
+<!-- ## Overview -->
+<h2><b>Overview</b></h2>
 
 
 ### Symposium Background
