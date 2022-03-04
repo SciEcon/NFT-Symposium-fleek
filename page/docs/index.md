@@ -4,8 +4,8 @@
 
 ---
 
-<!-- ## Overview -->
-<h2><b>Overview</b></h2>
+## Overview
+<!-- <h2><b>Overview</b></h2> -->
 
 
 ### Symposium Background
