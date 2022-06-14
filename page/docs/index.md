@@ -5,7 +5,7 @@
 ---
 
 <!-- ## Overview -->
-<h2><b>Overview</b></h2>
+## <h2><b>Overview</b></h2>
 
 
 ### Symposium Background
@@ -41,7 +41,7 @@ The symposium comprises online presentations for five articles, ranging from the
 ---
 
 <!-- ## Symposium Agenda -->
-<h2><b>Symposium Agenda</b></h2>
+## <h2><b>Symposium Agenda</b></h2>
 
 12/3/2021 China Standard Time (GMT+8)
 
@@ -130,7 +130,7 @@ The article is written to offer a landscape of what legal problems the Non-fungi
 ---
 
 <!-- ## Bios -->
-<h2><b>Bios</b></h2>
+## <h2><b>Bios</b></h2>
 
 ### Presenters
 
