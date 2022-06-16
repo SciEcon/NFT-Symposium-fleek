@@ -1,11 +1,29 @@
-site_name: SciEcon NFT Symposium Program
+site_name: SciEcon NFT Symposium
+
 theme: 
   name: material
-  logo: assets/logo1.png
-  favicon: assets/images/logo2.png
+  logo: assets/sciecon-b.png
+  favicon: assets/sciecon-w.png
   font:
     # text: Playfair Display
+  features:
+    # - navigation.tabs
+    # - navigation.top
+    # - toc.integrate
+    - navigation.expand
+    - navigation.sections
+    - navigation.indexes
+    - navigation.tabs.sticky
+
 markdown_extensions:
   - attr_list
+
 extra_css:
   - stylesheets/extra.css
+
+nav:
+  - "Program Overview": index.md
+  - "Symposium Slides": assets/Slides.pdf 
+  # - Articles:
+  #   - "A Blockchain-based Decentralized Cloud Storage with “Keeper-and-Distributor” Systems": articles/1_josh.md
+
