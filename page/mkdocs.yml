@@ -23,7 +23,7 @@ extra_css:
 
 nav:
   - "Program Overview": index.md
-  - "Symposium Slides": assets/Slides.pdf 
+  # - "Symposium Slides": assets/Slides.pdf 
   # - Articles:
   #   - "A Blockchain-based Decentralized Cloud Storage with “Keeper-and-Distributor” Systems": articles/1_josh.md
 
